@@ -1,5 +1,11 @@
 {
     "title": "Wörterbuch",
+    "widgets": {
+        "header": "Wörterbuch-Seite (Kopfzeile)",
+        "left": "Wörterbuch-Seite (Links)",
+        "right": "Wörterbuch-Seite (Rechts)",
+        "footer": "Wörterbuch-Seite (Fußzeile)"
+    },
     "admin": {
         "general": "Allgemein",
         "enabled": "Aktiviert",

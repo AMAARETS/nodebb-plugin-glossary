@@ -1,5 +1,11 @@
 {
     "title": "Sözlük",
+    "widgets": {
+        "header": "Sözlük Sayfası (Üst)",
+        "left": "Sözlük Sayfası (Sol)",
+        "right": "Sözlük Sayfası (Sağ)",
+        "footer": "Sözlük Sayfası (Alt)"
+    },
     "admin": {
         "general": "Genel",
         "enabled": "Etkin",

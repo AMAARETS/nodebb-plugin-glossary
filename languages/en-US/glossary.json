@@ -1,5 +1,11 @@
 {
     "title": "Glossary",
+    "widgets": {
+        "header": "Glossary Page (Header)",
+        "left": "Glossary Page (Left)",
+        "right": "Glossary Page (Right)",
+        "footer": "Glossary Page (Footer)"
+    },
     "admin": {
         "general": "General",
         "enabled": "Enabled",
