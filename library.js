@@ -30,8 +30,8 @@ plugin.init = async (params) => {
 		await loadSettings();
 	};
 
-	routeHelpers.setupPageRoute(router, '/glossary', controllers.renderGlossary);
-	routeHelpers.setupAdminPageRoute(router, '/admin/plugins/glossary', controllers.renderAdminPage);
+	routeHelpers.setupPageRoute(router, '/glossary', [], controllers.renderGlossary);
+	routeHelpers.setupAdminPageRoute(router, '/admin/plugins/glossary', [], controllers.renderAdminPage);
 };
 
 async function loadSettings() {
